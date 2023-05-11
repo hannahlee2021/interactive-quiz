@@ -1,0 +1,118 @@
+body {
+    background-color: #FAF0E5;
+    overflow: auto;
+}
+
+h1 {
+    font-family: 'IBM Plex Mono';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 128px;
+    line-height: 166px;
+    text-align: center;
+
+    color: #FF0000;
+
+}
+
+h2 {
+    font-family: 'IBM Plex Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 62px;
+    text-align: center;
+
+    color: #000000;
+}
+
+h3 {
+    font-family: 'IBM Plex Mono';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 62px;
+    text-align: center;
+
+    color: #000000;
+}
+
+
+
+.title_box {
+    position: absolute;
+    /* margin: auto; */
+    
+    width: 909px;
+    height: 253px;
+    left: 270px;
+    top: 92px;
+
+    background: #FFFEFE;
+    border-radius: 44px;
+}
+
+#header_text {
+    position: absolute;
+    width: 867px;
+    height: 149px;
+    left: 35px;
+    top: 50px;
+}
+
+#fail_text {
+    position: absolute;
+    width: 867px;
+    height: 82px;
+    left: 300px;
+    top: 400px;
+}
+
+#fail_text2 {
+
+    position: absolute;
+    width: 867px;
+    height: 82px;
+    left: 150px;
+    top: 500px;
+}
+
+#fail_text3 {
+
+    position: absolute;
+    width: 867px;
+    height: 82px;
+    left: 440px;
+    top: 600px;
+
+}
+a:visited,
+a:link {
+text-decoration: none;
+color:  #000000;
+}
+a:hover {
+    text-decoration: none;
+    color:#1A16BF;  
+}
+a:active {
+text-decoration: none;
+color:#000000;
+}
+/* #arrow_png {
+    position: absolute;
+    left: 650px;
+    top: 530px;
+
+} */
+
+/* #answer1_box {
+    position: absolute;
+    width: 258px;
+    height: 119px;
+    left: 37px;
+    top: 700px;
+
+    background: #FFFEFE;
+    border-radius: 44px;
+} */
