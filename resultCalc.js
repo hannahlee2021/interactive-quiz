@@ -54,9 +54,9 @@ document.addEventListener("DOMContentLoaded", function() {
     document.querySelector("#finalAnswer").innerHTML = finalAnswer;
 
     if (finalAnswer <= 3 || score1_int == 0) {
-        window.location.href = "http://yahoo.com";
+        window.location.href = "./fail.html";
     } else {
-        window.location.href = "./index.html";
+        window.location.href = "./pass.html";
     }
 
     //window.location.href = "http://yahoo.com";
